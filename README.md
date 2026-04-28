@@ -24,7 +24,6 @@ I am a passionate Computer Science student from Bangladesh who loves building we
 
 ---
 
-## 🛠️ Skills
 
 ## 🛠️ Skills
 

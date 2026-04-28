@@ -48,12 +48,6 @@ I am a passionate Computer Science student from Bangladesh who loves building we
   <a href="https://www.linkedin.com/in/rafiwolkarimrafi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-  <a href="https://www.snapchat.com/">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
-  </a>
 </p>
 
 ---

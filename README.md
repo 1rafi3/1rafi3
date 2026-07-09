@@ -17,10 +17,12 @@
 
 I am a passionate Computer Science student from Bangladesh who loves building web applications and exploring new technologies. I aim to become a skilled Full-Stack Developer and work with AI in the future.
 
-* 🌱 I’m currently exploring **Next.js & Advanced JavaScript**
-* 💻 I’m working on **web development projects**
-* ⚡ I love **coding, football, and problem-solving**
-* 🎯 Goal: Become a **Full-Stack Developer + AI Engineer**
+* 💻 Currently building modern web applications using **React.js, Next.js, and TypeScript**.
+* ⚙️ Developing backend services with **Node.js, Express.js, MongoDB, and Mongoose**.
+* 🚀 Continuously advancing my **Full-Stack Development** skills through hands-on projects.
+* 🌐 Passionate about creating responsive, user-friendly, and scalable web applications.
+* ⚡ Interests: **Coding, Football, and Problem-Solving**.
+* 🎯 Career Goal: Become a **Full-Stack Developer and AI Engineer**.
 
 ---
 

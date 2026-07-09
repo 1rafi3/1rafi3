@@ -1,7 +1,7 @@
 <!-- 🔥 Banner Image -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/nMJC33Lm/Blue-Geometric-Technology-Linked-In-Banner.jpg"/>
+  <img src="https://i.ibb.co.com/8Lp6g51b/Blue-Geometric-Technology-Linked-In-Banner-1.jpg"/>
 </p>
 
 ---

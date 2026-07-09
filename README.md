@@ -8,7 +8,13 @@
 
 <!-- 👋 Name & Designation -->
 
-<h2 align="center">Hi 👋, I'm Rafi</h2>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#58A6FF;">MD Sheik Rafiwol Karim Rafi</span>
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+Developer;TypeScript+Enthusiast;AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</h3>
 <h4 align="center">💻 Web Developer | 🎓 CSE Student | 🚀 Future Full-Stack & AI Engineer</h4>
 
 ---

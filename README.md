@@ -76,8 +76,7 @@ I am a passionate Computer Science student from Bangladesh who loves building we
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1rafi3&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rafi3&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://raw.githubusercontent.com/1rafi3/1rafi3/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
